@@ -1,7 +1,7 @@
 # Linux Essentials
 
 A structured and beginner-friendly repository covering essential Linux commands and shell scripting concepts required for DevOps Engineering.  
-This serves as your foundational learning + a reference guide for interviews and real-world DevOps tasks.
+This serves as your foundational learning + real-world DevOps tasks.
 
 ---
 
